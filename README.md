@@ -9,7 +9,7 @@ This is a Pong clone project containing five scenes:
 2) Main_SinglePlayer (for Solo Mode);
 3) Main_2Players (for Battle Mode);
 4) MenuScreen_BattleMode (for including player names, color selection, recording the last winner's name, and a data reset system);
-5) RankingScreen (for recording the number of Battle Mode victories between Player 1 and Player 2);
+5) RankingScreen (for recording the number of Battle Mode victories between Player 1 and Player 2); NOTE:The ranking system is not working properly, as Player 2's victories are being counted with double values. Player 1's ranking is working correctly. I haven't yet been able to include the InputName data in the ranking system to also include the player names. It is limited to showing how many victories Player 1 and 2 have achieved.
 
 The sprites and backgrounds were created using Aseprite and PowerPoint.
 
